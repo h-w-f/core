@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<core>
+	<name>Core</name>
+	<description>Hello World Framework Core</description>
+	<version>0.0.1</version>
+	<repo>https://github.com/h-w-f/core</repo>
+</core>
